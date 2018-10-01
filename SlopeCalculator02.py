@@ -43,7 +43,7 @@ else:p
 
 
 
-#Output
+#Outputp
 print("Your slope is m = "+str(rise)+"/"+str(run))
 print("Your slope as a decimal is ",fSlope)
 print(rise)
